@@ -1,0 +1,3 @@
+Efficient
+Concise
+Accurate
